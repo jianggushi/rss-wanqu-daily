@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import feedparser
 import re
 from lxml import etree
