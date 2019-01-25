@@ -55,7 +55,7 @@ try:
 except:
     pass
 with open(os.path.join('rss-md', title+'.md'), 'w') as f:
-    f.write('#### ')
+    f.write('#### 分享')
     f.write(rss['title'])
     f.write('\n\n')
     for item in rss['items']:
