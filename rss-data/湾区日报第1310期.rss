@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>湾区日报第1310期 2019/02/03</title>
+        <link>https://wanqu.co/issues/1310?s=rss</link>
+        <atom:link href="http://wanqu.co/feed" rel="self" type="application/rss+xml" />
+        <description>
+            今天是湾区日报运营第1642天，阅读本期所有文章需44分钟。
+            
+        </description>
+        <pubDate>Sat, 02 Feb 2019 21:13:48 -0800</pubDate>
+        <lastBuildDate>Sat, 02 Feb 2019 21:13:48 -0800</lastBuildDate>
+        <language>zh-Hans</language>
+        <generator>https://wanqu.co</generator>
+        
+        <item>
+            <title>Infrastructure as Code</title>
+            <link>https://wanqu.co/p/7268?s=rss</link>
+            <pubDate>Sat, 02 Feb 2019 21:13:48 -0800</pubDate>
+            <guid>https://wanqu.co/p/7268</guid>
+            <description>
+                <![CDATA[ <img src="https://wanqu.co/pixel/7268"><a href="https://crate.io/a/infrastructure-as-code-part-one/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=rss">原链 crate.io &middot; 8分钟读完</a><br><p>科普文章。用代码描述服务器的配置，自动化服务器配置，可以对机器配置进行版本控制。设计二十年前公司里要有一堆的sys admin干体力活，现在少数开发人员就可以搞定一切。</p><br><small><hr><div style="background-color: #fff4d6;padding:8px;display:inline-block;text-align:center;line-height:170%;">
+
+
+
+
+    <a href="https://wanqu.co/ads?s=ads" style="text-decoration: none; color: #aea79f" title="想在湾区日报上做广告？">
+    
+        推荐
+    
+    </a>
+
+
+<a href="https://wanqu.co/ads/r/164/3" style="font-weight: 600;" target="_blank" rel="nofollow">
+    「湾区日报」: 请我喝杯咖啡：）可以用支付宝、信用卡、PayPal、Apple Pay 捐款。捐款超过 $50 的可在捐款页面永久放一张图片（头像、logo 等）与链接。
+</a>
+
+    <img src="https://wanqu.co/pixel/wanqu/164/3/">
+</div></small> ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>Amazon Vine Reviewers</title>
+            <link>https://wanqu.co/p/7265?s=rss</link>
+            <pubDate>Sat, 02 Feb 2019 20:50:58 -0800</pubDate>
+            <guid>https://wanqu.co/p/7265</guid>
+            <description>
+                <![CDATA[ <img src="https://wanqu.co/pixel/7265"><a href="https://www.nytimes.com/2019/01/26/style/amazon-reviews-vine.html?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=rss">原链 www.nytimes.com &middot; 19分钟读完</a><br><p>Amazon 官方有个项目，定期寄大量免费的产品给真人去review，这些人叫 vine reviewers，他们中很多人基本上不用买东西了，都是免费得到的，甚至还能卖掉。</p><br><small><hr><div style="background-color: #fff4d6;padding:8px;display:inline-block;text-align:center;line-height:170%;">
+
+
+
+
+    <a href="https://wanqu.co/ads?s=ads" style="text-decoration: none; color: #aea79f" title="想在湾区日报上做广告？">
+    
+        推荐
+    
+    </a>
+
+
+<a href="https://wanqu.co/ads/r/164/3" style="font-weight: 600;" target="_blank" rel="nofollow">
+    「湾区日报」: 请我喝杯咖啡：）可以用支付宝、信用卡、PayPal、Apple Pay 捐款。捐款超过 $50 的可在捐款页面永久放一张图片（头像、logo 等）与链接。
+</a>
+
+    <img src="https://wanqu.co/pixel/wanqu/164/3/">
+</div></small> ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>Metrics for the unmeasurable</title>
+            <link>https://wanqu.co/p/7264?s=rss</link>
+            <pubDate>Sat, 02 Feb 2019 20:20:31 -0800</pubDate>
+            <guid>https://wanqu.co/p/7264</guid>
+            <description>
+                <![CDATA[ <img src="https://wanqu.co/pixel/7264"><a href="https://lethain.com/metrics-for-the-unmeasurable/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=rss">原链 lethain.com &middot; 7分钟读完</a><br><p>这是好问题：公司里都要尽量量化各种事情，数据驱动；但有些东西很难找个关键的指标，比如：如何找到指标来衡量网络安全？工作效率呢？</p><br><small><hr><div style="background-color: #fff4d6;padding:8px;display:inline-block;text-align:center;line-height:170%;">
+
+
+
+
+    <a href="https://wanqu.co/ads?s=ads" style="text-decoration: none; color: #aea79f" title="想在湾区日报上做广告？">
+    
+        推荐
+    
+    </a>
+
+
+<a href="https://wanqu.co/ads/r/164/3" style="font-weight: 600;" target="_blank" rel="nofollow">
+    「湾区日报」: 请我喝杯咖啡：）可以用支付宝、信用卡、PayPal、Apple Pay 捐款。捐款超过 $50 的可在捐款页面永久放一张图片（头像、logo 等）与链接。
+</a>
+
+    <img src="https://wanqu.co/pixel/wanqu/164/3/">
+</div></small> ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>Feature/Product Fit</title>
+            <link>https://wanqu.co/p/7263?s=rss</link>
+            <pubDate>Sat, 02 Feb 2019 20:02:59 -0800</pubDate>
+            <guid>https://wanqu.co/p/7263</guid>
+            <description>
+                <![CDATA[ <img src="https://wanqu.co/pixel/7263"><a href="https://caseyaccidental.com/feature-product-fit/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=rss">原链 caseyaccidental.com &middot; 10分钟读完</a><br><p>一个产品经过一段时间的进化，会有一堆功能。如果要再引入一个新功能，该怎么做？新功能对整个产品（或者已有的最核心的那个功能）是加分、还是减分？</p>
+<p>公司里有一堆人以后，会有政治斗争，会有私心，会极力地宣传自己做的东西。屏幕的大小有限，如果大力宣传了你做的新功能，那其他功能怎么办？如果通知所有用户你做的新功能，会不会让很多用户感到反感、然后放弃对整个产品的使用？如果某个功能是减分的，可能又得内部经过一系列政治斗争才能删除这个功能。hmm</p><br><small><hr><div style="background-color: #fff4d6;padding:8px;display:inline-block;text-align:center;line-height:170%;">
+
+
+
+
+    <a href="https://wanqu.co/ads?s=ads" style="text-decoration: none; color: #aea79f" title="想在湾区日报上做广告？">
+    
+        推荐
+    
+    </a>
+
+
+<a href="https://wanqu.co/ads/r/164/3" style="font-weight: 600;" target="_blank" rel="nofollow">
+    「湾区日报」: 请我喝杯咖啡：）可以用支付宝、信用卡、PayPal、Apple Pay 捐款。捐款超过 $50 的可在捐款页面永久放一张图片（头像、logo 等）与链接。
+</a>
+
+    <img src="https://wanqu.co/pixel/wanqu/164/3/">
+</div></small> ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>最新博文：湾区日报 for iOS 又要涨价了！</title>
+            <link>https://wanqu.co/b/82/2018-12-05-ios-pricing.html?s=rss</link>
+            <pubDate>Tue, 04 Dec 2018 21:33:07 -0800</pubDate>
+            <guid>https://wanqu.co/b/82/2018-12-05-ios-pricing.html</guid>
+            <description>
+                <![CDATA[ <img src="https://wanqu.co/pixel/blog/82"> 2019年1月1日涨价 $1。新价格将是 $6.99。一个小小的 app 竟然比一杯咖啡还贵！ <a href="https://wanqu.co/blog/2018-12-05-ios-pricing.html">阅读全文</a>]]>
+            </description>
+        </item>
+    </channel>
+</rss>
