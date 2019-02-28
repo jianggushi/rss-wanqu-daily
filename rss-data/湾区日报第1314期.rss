@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>湾区日报第1314期 2019/02/16</title>
+        <link>https://wanqu.co/issues/1314?s=rss</link>
+        <atom:link href="http://wanqu.co/feed" rel="self" type="application/rss+xml" />
+        <description>
+            今天是湾区日报运营第1655天，阅读本期所有文章需43分钟。
+            
+        </description>
+        <pubDate>Fri, 15 Feb 2019 20:29:35 -0800</pubDate>
+        <lastBuildDate>Fri, 15 Feb 2019 20:29:35 -0800</lastBuildDate>
+        <language>zh-Hans</language>
+        <generator>https://wanqu.co</generator>
+        
+        <item>
+            <title>Altavista：Google 出现以前最大的搜索引擎的兴衰</title>
+            <link>https://wanqu.co/p/7289?s=rss</link>
+            <pubDate>Fri, 15 Feb 2019 20:29:35 -0800</pubDate>
+            <guid>https://wanqu.co/p/7289</guid>
+            <description>
+                <![CDATA[ <img src="https://wanqu.co/pixel/7289"><a href="https://digital.com/about/altavista/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=rss">原链 digital.com &middot; 7分钟读完</a><br><p>事后诸葛亮，回头看，什么都好说，一切都很明显，怎么分析都行：Google 当然是具有如下1、2、3优点，当年其他搜索引擎具有1、2、3缺点，所以Google的胜利是显而易见的，是必然的。</p>
+<p>投资人与创业者一般都是做很 non-obvious 的事情，做那种其他人觉得没戏、不可能、不看好的事情；如果是那种很 obvious 的，哪能让小创业公司做起来？1997年Altavista每天访客8千万，搜索引擎的战争已经结束？还是搜索引擎市场太小了？1998年两个斯坦福PhD创办Google；为什么世界上需要有另一个搜索引擎？为什么雅虎不派50个工程师把2个人的Google扼杀在萌芽中？</p><br><small><hr><div style="background-color: #fff4d6;padding:8px;display:inline-block;text-align:center;line-height:170%;">
+
+
+
+
+    <a href="https://wanqu.co/ads?s=ads" style="text-decoration: none; color: #aea79f" title="想在湾区日报上做广告？">
+    
+        推荐
+    
+    </a>
+
+
+<a href="https://wanqu.co/ads/r/164/3" style="font-weight: 600;" target="_blank" rel="nofollow">
+    「湾区日报」: 请我喝杯咖啡：）可以用支付宝、信用卡、PayPal、Apple Pay 捐款。捐款超过 $50 的可在捐款页面永久放一张图片（头像、logo 等）与链接。
+</a>
+
+    <img src="https://wanqu.co/pixel/wanqu/164/3/">
+</div></small> ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>如何回答“谁是你的创业公司的竞争对手”这个问题</title>
+            <link>https://wanqu.co/p/7288?s=rss</link>
+            <pubDate>Fri, 15 Feb 2019 20:25:15 -0800</pubDate>
+            <guid>https://wanqu.co/p/7288</guid>
+            <description>
+                <![CDATA[ <img src="https://wanqu.co/pixel/7288"><a href="https://www.alexanderjarvis.com/2018/03/12/who-are-your-startup-competitors/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=rss">原链 www.alexanderjarvis.com &middot; 12分钟读完</a><br><p>可以有各种答案（本文提供了一些参考答案），但千万别说 &ldquo;我们没有竞争对手&rdquo;。这年头基本不可能有绝对原创的、从来没有人想过、或做过的创业 idea 了。</p><br><small><hr><div style="background-color: #fff4d6;padding:8px;display:inline-block;text-align:center;line-height:170%;">
+
+
+
+
+    <a href="https://wanqu.co/ads?s=ads" style="text-decoration: none; color: #aea79f" title="想在湾区日报上做广告？">
+    
+        推荐
+    
+    </a>
+
+
+<a href="https://wanqu.co/ads/r/164/3" style="font-weight: 600;" target="_blank" rel="nofollow">
+    「湾区日报」: 请我喝杯咖啡：）可以用支付宝、信用卡、PayPal、Apple Pay 捐款。捐款超过 $50 的可在捐款页面永久放一张图片（头像、logo 等）与链接。
+</a>
+
+    <img src="https://wanqu.co/pixel/wanqu/164/3/">
+</div></small> ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>Logs, metrics, and the evolution of observability at Coinbase</title>
+            <link>https://wanqu.co/p/7287?s=rss</link>
+            <pubDate>Fri, 15 Feb 2019 20:19:25 -0800</pubDate>
+            <guid>https://wanqu.co/p/7287</guid>
+            <description>
+                <![CDATA[ <img src="https://wanqu.co/pixel/7287"><a href="https://blog.coinbase.com/logs-metrics-and-the-evolution-of-observability-at-coinbase-13196b15edb7?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=rss">原链 blog.coinbase.com &middot; 11分钟读完</a><br><p>Coinbase 一开始自己搭 Elasticsearch 索引 log；后来用户暴增，log 也激增，遇到很多问题。后来引入 Datadog，并使用 AWS 托管的 Elasticsearch。</p><br><small><hr><div style="background-color: #fff4d6;padding:8px;display:inline-block;text-align:center;line-height:170%;">
+
+
+
+
+    <a href="https://wanqu.co/ads?s=ads" style="text-decoration: none; color: #aea79f" title="想在湾区日报上做广告？">
+    
+        推荐
+    
+    </a>
+
+
+<a href="https://wanqu.co/ads/r/164/3" style="font-weight: 600;" target="_blank" rel="nofollow">
+    「湾区日报」: 请我喝杯咖啡：）可以用支付宝、信用卡、PayPal、Apple Pay 捐款。捐款超过 $50 的可在捐款页面永久放一张图片（头像、logo 等）与链接。
+</a>
+
+    <img src="https://wanqu.co/pixel/wanqu/164/3/">
+</div></small> ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>Don’t Get Clever with Login Forms</title>
+            <link>https://wanqu.co/p/7286?s=rss</link>
+            <pubDate>Fri, 15 Feb 2019 20:13:52 -0800</pubDate>
+            <guid>https://wanqu.co/p/7286</guid>
+            <description>
+                <![CDATA[ <img src="https://wanqu.co/pixel/7286"><a href="http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=rss">原链 bradfrost.com &middot; 6分钟读完</a><br><p>当代登录表单的设计别做得太奇葩了，得考虑到 1password 这种密码管理软件的存在。现在每个人都有几十上百个账号，密码管理软件的使用是大势所趋。</p><br><small><hr><div style="background-color: #fff4d6;padding:8px;display:inline-block;text-align:center;line-height:170%;">
+
+
+
+
+    <a href="https://wanqu.co/ads?s=ads" style="text-decoration: none; color: #aea79f" title="想在湾区日报上做广告？">
+    
+        推荐
+    
+    </a>
+
+
+<a href="https://wanqu.co/ads/r/164/3" style="font-weight: 600;" target="_blank" rel="nofollow">
+    「湾区日报」: 请我喝杯咖啡：）可以用支付宝、信用卡、PayPal、Apple Pay 捐款。捐款超过 $50 的可在捐款页面永久放一张图片（头像、logo 等）与链接。
+</a>
+
+    <img src="https://wanqu.co/pixel/wanqu/164/3/">
+</div></small> ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>Fortnite isn&#39;t a game, it&#39;s a place</title>
+            <link>https://wanqu.co/p/7285?s=rss</link>
+            <pubDate>Fri, 15 Feb 2019 20:10:34 -0800</pubDate>
+            <guid>https://wanqu.co/p/7285</guid>
+            <description>
+                <![CDATA[ <img src="https://wanqu.co/pixel/7285"><a href="https://char.gd/blog/2018/fortnite-is-the-new-hangout-spot?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=rss">原链 char.gd &middot; 7分钟读完</a><br><p>超火爆的、跨平台的游戏 Fortnite 就是一个社交场所，有点虚拟客厅的意思。朋友们边玩游戏边聊天扯淡，游戏里的胜负不重要，就是在聊天的时候有点事做而已，有点像撸串、泡茶。</p><br><small><hr><div style="background-color: #fff4d6;padding:8px;display:inline-block;text-align:center;line-height:170%;">
+
+
+
+
+    <a href="https://wanqu.co/ads?s=ads" style="text-decoration: none; color: #aea79f" title="想在湾区日报上做广告？">
+    
+        推荐
+    
+    </a>
+
+
+<a href="https://wanqu.co/ads/r/164/3" style="font-weight: 600;" target="_blank" rel="nofollow">
+    「湾区日报」: 请我喝杯咖啡：）可以用支付宝、信用卡、PayPal、Apple Pay 捐款。捐款超过 $50 的可在捐款页面永久放一张图片（头像、logo 等）与链接。
+</a>
+
+    <img src="https://wanqu.co/pixel/wanqu/164/3/">
+</div></small> ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>最新博文：湾区日报 for iOS 又要涨价了！</title>
+            <link>https://wanqu.co/b/82/2018-12-05-ios-pricing.html?s=rss</link>
+            <pubDate>Tue, 04 Dec 2018 21:33:07 -0800</pubDate>
+            <guid>https://wanqu.co/b/82/2018-12-05-ios-pricing.html</guid>
+            <description>
+                <![CDATA[ <img src="https://wanqu.co/pixel/blog/82"> 2019年1月1日涨价 $1。新价格将是 $6.99。一个小小的 app 竟然比一杯咖啡还贵！ <a href="https://wanqu.co/blog/2018-12-05-ios-pricing.html">阅读全文</a>]]>
+            </description>
+        </item>
+    </channel>
+</rss>
